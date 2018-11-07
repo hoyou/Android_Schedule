@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="terms">
+        <item>2018-2019学年第一学期</item>
+        <item>2017-2018学年第二学期</item>
+        <item>2017-2018学年第一学期</item>
+        <item>2016-2017学年第二学期</item>
+        <item>2016-2017学年第一学期</item>
+        <item>2015-2016学年第一学期</item>
+        <item>2015-2016学年第一学期</item>
+        <item>2014-2015学年第一学期</item>
+        <item>2014-2015学年第一学期</item>
+        <item>2013-2014学年第一学期</item>
+        <item>2013-2014学年第一学期</item>
+    </string-array>
+</resources>
